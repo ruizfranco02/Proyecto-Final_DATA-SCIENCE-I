@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo analizar datos del fútbol argentino (AFA) ent
 3. **¿Las variables físicas influyen en el rendimiento del equipo?**
 
 ##  Metodología
-El análisis se desarrolló en *Google Colab* (`Proyecto_Final_AFA_actualizado.ipynb`) empleando las siguientes etapas:
+El análisis se desarrolló en *Google Colab* empleando las siguientes etapas:
 
 1. **Importación y limpieza del dataset**
    - Dataset: `afa_2015_2022_spa.csv`
